@@ -8,7 +8,7 @@ public class EasyStocksApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EasyStocksApplication.class, args);
-		System.out.println("Alterado!");
+		System.out.println("Mensagem Teste");
 	}
 
 }
