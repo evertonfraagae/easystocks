@@ -14,7 +14,7 @@ public class StockController {
 	
 	@GetMapping
 	public List<Stocks> listar() {
-		List<Stocks>stocksList = new ArrayList();
+		List<Stocks>stocksList = new ArrayList<>();
 		Stocks stocks =  new Stocks();
 		stocks.setId(1);
 		stocks.setStockName("Petrobrás");

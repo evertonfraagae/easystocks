@@ -7,7 +7,7 @@ public class Stocks {
 	private int id;
 	private String stockName;
 	private String stockSymbol;
-	private List<StockQuotes> quotes = new ArrayList();
+	private List<StockQuotes> quotes = new ArrayList<>();
 	
 	public Stocks() {
 	}
