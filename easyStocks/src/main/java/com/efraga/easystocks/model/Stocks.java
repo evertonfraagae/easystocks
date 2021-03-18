@@ -10,7 +10,6 @@ public class Stocks {
 	private List<StockQuotes> quotes = new ArrayList();
 	
 	public Stocks() {
-		String teste = " ";
 	}
 
 	public Stocks(int id,String stockName, String stockSymbol) {
