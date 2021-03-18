@@ -11,7 +11,6 @@ public class Stocks {
 	
 	public Stocks() {
 		String teste = " ";
-		
 	}
 
 	public Stocks(int id,String stockName, String stockSymbol) {
